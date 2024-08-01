@@ -1,13 +1,22 @@
 # Airline_Passenger_Satisfaction
 Airline Passenger Satisfaction Analysis This repository contains a project that analyzes airline passenger satisfaction using the K-Nearest Neighbors (KNN) algorithm. The project involves exploratory data analysis, data cleaning, and model training to predict passenger satisfaction based on various features.
+
 Table of Contents
+
 Project Overview
+
 Installation
+
 Usage
+
 Data Description
+
 Methodology
+
 Results
+
 Contributing
+
 License
 Project Overview
 The goal of this project is to classify passenger satisfaction based on various features using the K-Nearest Neighbors algorithm. The project involves:
