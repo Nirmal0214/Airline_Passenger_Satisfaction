@@ -31,11 +31,11 @@ This project explores how well the K-Nearest Neighbors (KNN) algorithm can class
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Nirmal0214/Airline-Passenger-Satisfaction.git
+   git clone https://github.com/Nirmal0214/Airline_Passenger_Satisfaction.git
    ```
 2. Navigate to the project directory:
    ```
-   cd Airline-Passenger-Satisfaction
+   cd Airline_Passenger_Satisfaction
    ```
 3. Install required Python packages:
    ```
